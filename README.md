@@ -5,4 +5,4 @@ Home (index.html)
 Film Screenings (screenings.html)
 Workshops (workshops.html)
 Collaborations (collaborations.html)
-Website URL: 
+Website URL: https://chasecoursey.github.io/5-Build/index.html
